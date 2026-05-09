@@ -1,2 +1,14 @@
-# JavaScript-Fundamentals
-A structured JavaScript learning repository covering fundamentals, problem solving, memory behavior, references, closures, callbacks, arrays, objects, and core programming concepts.
+# JavaScript Fundamentals
+
+This repository contains my JavaScript learning journey.
+
+Topics:
+- Variables
+- Arrays
+- Objects
+- References
+- Closures
+- Callbacks
+- Scope
+
+I am practicing by solving problems and understanding memory behavior deeply.
